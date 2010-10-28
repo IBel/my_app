@@ -21,7 +21,4 @@ ActiveRecord::Schema.define(:version => 20101028225411) do
 # Could not dump table "teachers" because of following Mysql2::Error
 #   Invalid date: BTREE
 
-# Could not dump table "users" because of following Mysql2::Error
-#   Invalid date: BTREE
-
 end
