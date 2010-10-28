@@ -10,7 +10,10 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101028130032) do
+ActiveRecord::Schema.define(:version => 20101028160707) do
+
+# Could not dump table "microposts" because of following Mysql2::Error
+#   Invalid date: BTREE
 
 # Could not dump table "users" because of following Mysql2::Error
 #   Invalid date: BTREE

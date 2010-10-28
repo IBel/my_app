@@ -1,0 +1,6 @@
+<h1>This is a <%= @title %> page</h1>
+	<h2>Navigation</h2>
+	<ul>
+		<li><%= link_to("Users", {:controller => 'users', :action => 'index'}) %></li>
+		<li><%= link_to("Posts", {:controller => 'microposts', :action => 'index'}) %></li>
+	</ul>
