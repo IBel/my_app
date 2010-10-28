@@ -1,11 +1,17 @@
 MyApp::Application.routes.draw do
+  resources :lessons
+
+  resources :disciplines
+
+  resources :groups
+
+  resources :teachers
+
   get "pages/home"
 
   get "pages/contact"
   
   get "pages/about"
-
-  resources :microposts
 
   resources :users
 

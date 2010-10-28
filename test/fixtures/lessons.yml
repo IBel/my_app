@@ -2,12 +2,8 @@
 
 one:
   name: MyString
-  email: MyString
-  password: MyString
-  zachet: false
+  group_id: 1
 
 two:
   name: MyString
-  email: MyString
-  password: MyString
-  zachet: false
+  group_id: 1

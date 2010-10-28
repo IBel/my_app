@@ -2,12 +2,6 @@
 
 one:
   name: MyString
-  email: MyString
-  password: MyString
-  zachet: false
 
 two:
   name: MyString
-  email: MyString
-  password: MyString
-  zachet: false
